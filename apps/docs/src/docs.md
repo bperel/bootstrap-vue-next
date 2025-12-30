@@ -144,19 +144,19 @@ To have components automatically registered **and** tree-shaken, we recommend [u
 ::: code-group
 
 ```bash [PNPM]
-pnpm add unplugin-vue-components -D
+pnpm add unplugin-vue-components
 ```
 
 ```bash [BUN]
-bun add unplugin-vue-components -D
+bun add unplugin-vue-components
 ```
 
 ```bash [YARN]
-yarn add unplugin-vue-components -D
+yarn add unplugin-vue-components
 ```
 
 ```bash [NPM]
-npm i unplugin-vue-components -D
+npm i unplugin-vue-components
 ```
 
 :::
@@ -214,19 +214,19 @@ In your Nuxt3 application, install the necessary packages for `bootstrap-vue-nex
 ::: code-group
 
 ```bash [PNPM]
-pnpm add bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt -D
+pnpm add bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt
 ```
 
 ```bash [BUN]
-bun add bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt -D
+bun add bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt
 ```
 
 ```bash [YARN]
-yarn add bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt -D
+yarn add bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt
 ```
 
 ```bash [NPM]
-npm i bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt -D
+npm i bootstrap bootstrap-vue-next @bootstrap-vue-next/nuxt
 ```
 
 :::
@@ -296,19 +296,19 @@ This package uses optional peer dependencies to generate type definitions for en
 ::: code-group
 
 ```bash [PNPM]
-pnpm add -D @floating-ui/vue @vueuse/core vue-router
+pnpm add @floating-ui/vue @vueuse/core vue-router
 ```
 
 ```bash [BUN]
-bun add -D @floating-ui/vue @vueuse/core vue-router
+bun add @floating-ui/vue @vueuse/core vue-router
 ```
 
 ```bash [YARN]
-yarn add -D @floating-ui/vue @vueuse/core vue-router
+yarn add @floating-ui/vue @vueuse/core vue-router
 ```
 
 ```bash [NPM]
-npm i -D @floating-ui/vue @vueuse/core vue-router
+npm i @floating-ui/vue @vueuse/core vue-router
 ```
 
 :::
